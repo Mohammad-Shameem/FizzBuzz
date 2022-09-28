@@ -18,4 +18,5 @@ numbers.forEach((item, index, arr) => {
     console.log(item);
   }
 });
-//
+
+// Task completed
